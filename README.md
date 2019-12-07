@@ -2,4 +2,4 @@
 
 URL: https://diptanu.com
 
-Personal website template / backup - 20 Nov 2019 repository. 
+Personal website template / backup - 06 Dec 2019 repository. 
